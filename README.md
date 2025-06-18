@@ -88,10 +88,10 @@ CareBuddy is a mental health chatbot designed to provide accessible support, gui
 
 If you have any questions, feedback, or suggestions, feel free to reach out:
 
-- **Author**: Yashraj Dudhe  
-- **Email**: [yashraj.dudhe110@gmail.com](mailto:yashraj.dudhe110@gmail.com)  
-- **GitHub**: [yasraj-dudhe](https://github.com/yashraj-dudhe)  
-- **LinkedIn**: [Yashraj Dudhe](https://www.linkedin.com/in/yashrajdudhe)  
+- **Author**: Vishwapal Shinde 
+- **Email**: [vishwapalshinde@gmail.com](mailto:vishwapalshinde1766@gmail.com)  
+- **GitHub**: [vishwapalshinde](https://github.com/vishwapalshinde)  
+- **LinkedIn**: [vishwapal shinde](https://www.linkedin.com/in/vishwapal-shinde-79967725a)  
 
 We appreciate your interest in CareBuddy and look forward to hearing from you!
 
